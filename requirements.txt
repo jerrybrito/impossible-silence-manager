@@ -1,0 +1,2 @@
+# Requires: theoretical-loop
+# (Not available on PyPI)
